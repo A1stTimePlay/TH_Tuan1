@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package javaapplication1;
+package com.company;
 
 /**
  *
@@ -12,7 +12,7 @@ package javaapplication1;
 import java.util.*;
 import java.math.*;
 
-public class Bai14 {
+public class Bai12 {
     public static void main(String[] args){
         BigInteger a=new BigInteger("1234567890");
         BigInteger b=new BigInteger("9876654321");

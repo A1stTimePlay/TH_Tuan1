@@ -14,5 +14,6 @@ public class Bai13 {
             arrB[i]=(int)Math.random();
         }
         System.out.println(arrB.toString());
+
     }
 }
